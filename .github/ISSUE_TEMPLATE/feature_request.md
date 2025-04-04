@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Sugira uma ideia para este repositório
+name: Valter Jr
+about: Colocar links com a documentação para iniciantes aqui
 title: "[SUGESTÃO]"
 labels: enhancement
 assignees: ''
@@ -8,11 +8,10 @@ assignees: ''
 ---
 
 **Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema.
+N/A
 
 **Descreva a solução que você gostaria**
-Uma descrição clara e concisa do que você quer que aconteça.
-
+Inserir links para documentação e exemplos de código aqui
 **Descreva as alternativas que você considerou**
 Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
 
